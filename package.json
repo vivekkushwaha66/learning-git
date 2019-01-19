@@ -1,0 +1,22 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "Learning Git.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekkushwaha66/learning-git.git"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "Aditi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekkushwaha66/learning-git/issues"
+  },
+  "homepage": "https://github.com/vivekkushwaha66/learning-git#readme"
+}
